@@ -1,0 +1,1 @@
+ChatGPT 已成功连接 Obsidian。
