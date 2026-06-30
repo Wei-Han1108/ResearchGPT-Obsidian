@@ -1,5 +1,5 @@
 ﻿# ResearchGPT-Obsidian
-
+每天晚上可以让GPT总结当天对话，保存到Obsidian作为日报
 ResearchGPT-Obsidian 是一个面向 AI 辅助研究与知识管理的 Obsidian + MCP 项目。它包含一个本地 MCP Server、示例 Obsidian Vault、Prompt 模板和项目文档，方便把知识库接入支持 MCP 的 AI 客户端。
 
 ResearchGPT-Obsidian is an Obsidian + MCP project for AI-assisted research and knowledge management. It includes a local MCP server, an example Obsidian vault, prompt templates, and documentation, making it easy to connect a knowledge base to MCP-compatible AI clients.
